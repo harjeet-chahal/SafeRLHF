@@ -683,31 +683,5 @@ Based on the evaluation framework, typical improvements after RLHF training:
 - **Streamlit**: Dashboard framework
 - **Plotly**: Interactive visualizations
 
-### Related Projects
-
-- [InstructGPT](https://openai.com/research/instruction-following)
-- [Anthropic's Constitutional AI](https://www.anthropic.com/constitutional)
-- [OpenAI's GPT-3 Safety](https://openai.com/research/gpt-3-safety)
-- [HuggingFace TRL](https://github.com/huggingface/trl)
-
-## 📄 License
-
-[Add your license here - e.g., MIT, Apache 2.0]
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📧 Contact
-
-For questions or issues, please open an issue on GitHub.
-
----
-
-<div align="center">
-
-**Built with ❤️ for Safe AI**
-
-*Last updated: 2024*
 
 </div>
